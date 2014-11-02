@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java" afterPath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compass.iml" afterPath="$PROJECT_DIR$/compass.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="compass.iws" />
@@ -22,27 +18,39 @@
     <file path="/CustomFieldDecorator.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413178193613" ignored="false" />
     <file path="/MissingWebElement.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413026493028" ignored="false" />
     <file path="/CustomLocatingElementHandler.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413026742602" ignored="false" />
-    <file path="/Dummy.txt" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414738755962" ignored="false" />
+    <file path="/Dummy.txt" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414933607645" ignored="false" />
     <file path="/JQueryLocator.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413177659461" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FlowFlowNewStructureTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414646701132" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FlowFlowNewStructureTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/OrderAction.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/BaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/OMSCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/ReturnAction.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/.idea/workspace.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413870391216" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/.idea/workspace.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939433992" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/experiments/Sample.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413452153493" ignored="false" />
     <file path="/Sample.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413441343706" ignored="false" />
     <file path="/FlowFlowNewStructureTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442024497" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/config/stage_config.properties" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442272405" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414739062465" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/cms/api/CMSCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442272405" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-perf/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414405171825" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/models/OrderItem.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414646701132" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/models/OrderItem.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/factory/ProductFactory.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414646701132" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414736511646" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414736504930" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414738044646" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414736953319" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Firefox.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934791182" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/UIBaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939246615" ignored="false" />
+    <file path="/UIBaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939072130" ignored="false" />
+    <file path="/Configuration.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934399980" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Configuration.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
+    <file path="/Firefox.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934788656" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FulfillmentForwardFlowUITest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939318134" ignored="false" />
+    <file path="/FulfillmentForwardFlowUITest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939312343" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/FileOperationHelper.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
+    <file path="/FileOperationHelper.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414935232279" ignored="false" />
+    <file path="/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414937158350" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/sms-test.log" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414938001669" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,15 +138,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissingWebElement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CustomElementLocator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,7 +150,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.19195612">
+            <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.18485916">
               <folding />
             </state>
           </provider>
@@ -673,23 +672,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/AngularLocator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/JQueryLocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="18" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -708,9 +693,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.10968921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/AngularLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.19195612">
+        <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.18485916">
           <folding />
         </state>
       </provider>
