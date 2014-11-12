@@ -1,5 +1,6 @@
 package org.flipkart.compass;
 
+import org.flipkart.compass.annotations.AngularLocator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,11 +13,12 @@ public class HomePage {
 
   WebDriver driver;
 
-  @FindBy(id = "")
+  @AngularLocator($ = ".gbqfif")
   private WebElement element;
 
   public HomePage(WebDriver driver) {
     this.driver = driver;
+    this.driver.get("https://www.google.co.in/");
     CompassPageFactory.initElements(this.driver, this);
   }
 

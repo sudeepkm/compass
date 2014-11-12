@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webbitserver_webbit_0_4_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__biz_neustar_browsermob_proxy_2_0_beta_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk15_135.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_sitebricks_sitebricks_0_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_2_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_intellij_annotations_7_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jdom_jdom_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_7_3_0_v20110203.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mvel_mvel2_2_0_18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__saxpath_saxpath_1_0_FCS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xom_xom_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java" afterPath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/org/flipkart/compass/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compass.iml" afterPath="$PROJECT_DIR$/compass.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -22,46 +62,46 @@
     <file path="/CustomFieldDecorator.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413178193613" ignored="false" />
     <file path="/MissingWebElement.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413026493028" ignored="false" />
     <file path="/CustomLocatingElementHandler.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413026742602" ignored="false" />
-    <file path="/Dummy.txt" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415076096833" ignored="false" />
+    <file path="/Dummy.txt" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415776363899" ignored="false" />
     <file path="/JQueryLocator.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413177659461" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FlowFlowNewStructureTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/OrderAction.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/BaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/OMSCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941237917" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/OMSCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/ReturnAction.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413201088187" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/.idea/workspace.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415013587636" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/experiments/Sample.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413452153493" ignored="false" />
     <file path="/Sample.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413441343706" ignored="false" />
     <file path="/FlowFlowNewStructureTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442024497" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/config/stage_config.properties" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442272405" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415075892154" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/config/stage_config.properties" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415685537861" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/cms/api/CMSCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1413442272405" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-perf/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414405171825" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/models/OrderItem.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/factory/ProductFactory.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414646701132" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
     <file path="/PageObject.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414736504930" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414944726662" ignored="false" />
-    <file path="/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415079617884" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Firefox.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934791182" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/UIBaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414943782085" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
+    <file path="/HomePage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415780662789" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Firefox.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933369" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/UIBaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
     <file path="/UIBaseTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414943763469" ignored="false" />
     <file path="/Configuration.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934399980" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Configuration.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/configurations/Configuration.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
     <file path="/Firefox.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414934788656" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FulfillmentForwardFlowUITest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414994724751" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/fulfilment/FulfillmentForwardFlowUITest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
     <file path="/FulfillmentForwardFlowUITest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414994707610" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/common/helpers/FileOperationHelper.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414939431092" ignored="false" />
     <file path="/FileOperationHelper.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414935232279" ignored="false" />
-    <file path="/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415076348746" ignored="false" />
+    <file path="/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415685079967" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/sms-test.log" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414938001669" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/helpers/OMSOperations.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941062555" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/ff/api/SMSCommonOperations.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940650523" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/ff/api/SMSCommonOperationApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940837050" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/ekl/helpers/EKLCommonBackendOperation.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940862759" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/ff/api/SMSCommonOperationApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/ekl/helpers/EKLCommonBackendOperation.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933369" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/cp/userservice/api/UserServiceCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940897671" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/ekl/apis/EKLCommonApiOperations.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940918710" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/PaymentsCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414940979941" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/api/PaymentsCommonApis.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/cp/userservice/helpers/UserServiceOperations.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941076300" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/oms/helpers/OmsCommonOperations.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941268893" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/scp/models/OrderDataFactory.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941122657" ignored="false" />
@@ -72,11 +112,13 @@
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/cancellations/SellerCancellationTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941482738" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/spl/SPLTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941519285" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fk/sp/experiments/EKLOperationsList.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414941513878" ignored="false" />
-    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/OrderPage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414999482705" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/main/java/fk/sp/sms/pages/OrderPage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415684598268" ignored="false" />
     <file path="/OrderPage.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414998939614" ignored="false" />
     <file path="$USER_HOME$/TestCode/sms-test/.idea/misc.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1414993956503" ignored="false" />
     <file path="$PROJECT_DIR$/../../custom-page-factory/pom.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415079154704" ignored="false" />
-    <file path="/HomePageTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415079665720" ignored="false" />
+    <file path="/HomePageTest.java" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415083444998" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fulfillmentSmoke.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
+    <file path="$USER_HOME$/TestCode/sms-test/src/test/java/fulfillmentRegression.xml" changelist="ee8def5e-5cf1-48f2-97c9-17abf74bd0cf" time="1415682933368" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +182,7 @@
       <file leaf-file-name="CustomFieldDecorator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomFieldDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
+            <state line="66" column="23" selection-start="2265" selection-end="2265" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,10 +197,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AngularLocator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/AngularLocator.java">
+      <file leaf-file-name="MissingWebElement.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="18" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+            <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomElementLocatorFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocatorFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="22" selection-start="553" selection-end="598" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,7 +227,7 @@
       <file leaf-file-name="CustomElementLocator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="38" selection-start="2803" selection-end="2825" vertical-scroll-proportion="0.0">
+            <state line="50" column="64" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,10 +236,17 @@
       <file leaf-file-name="HomePage.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="595" selection-end="595" vertical-scroll-proportion="0.5601173">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="15" column="34" selection-start="436" selection-end="436" vertical-scroll-proportion="0.5220126">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompassPageFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CompassPageFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="56" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -187,18 +254,7 @@
       <file leaf-file-name="HomePageTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="17" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomElementLocatorFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocatorFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="9" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+            <state line="17" column="56" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -208,24 +264,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/JQueryLocator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="18" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OptionalElement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/OptionalElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildElementLocatorFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/ChildElementLocatorFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="28" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -260,9 +298,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CompassPageFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/JQueryLocator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomFieldDecorator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/flipkart/compass/HomePage.java" />
       </list>
     </option>
@@ -410,7 +448,7 @@
       <recent name="org.flipkart.compass" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest.testHomePage">
+  <component name="RunManager" selected="TestNG.HomePageTest">
     <configuration default="false" name="HomePageTest.testHomePage" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -427,6 +465,41 @@
       <option name="METHOD_NAME" value="testHomePage" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.flipkart.compass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="compass" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.flipkart.compass" />
+      <option name="MAIN_CLASS_NAME" value="org.flipkart.compass.HomePageTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -531,12 +604,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="TestNG.HomePageTest.testHomePage" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.HomePageTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.HomePageTest.testHomePage" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.HomePageTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.HomePageTest.testHomePage" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -585,7 +660,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -594,10 +669,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -675,37 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/ChildOf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="57" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/ChildElementLocator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="56" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CompassPageFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="55" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomLocatingElementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="78" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocatorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="9" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="57" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/OptionalElement.java">
@@ -715,23 +760,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/ChildElementLocatorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="28" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.10968921">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/annotations/AngularLocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="18" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CompassPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="56" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="553" selection-end="598" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/ChildElementLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="56" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.57798165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/ChildElementLocatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="28" selection-start="907" selection-end="907" vertical-scroll-proportion="0.50176054">
           <folding />
         </state>
       </provider>
@@ -745,40 +804,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomFieldDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
+        <state line="66" column="23" selection-start="2265" selection-end="2265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomLocatingElementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="78" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/MissingWebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/CustomElementLocator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="38" selection-start="2803" selection-end="2825" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="-4.2">
+        <state line="50" column="64" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/flipkart/compass/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="17" column="56" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="16" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/flipkart/compass/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="595" selection-end="595" vertical-scroll-proportion="0.5601173">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="15" column="34" selection-start="436" selection-end="436" vertical-scroll-proportion="0.5220126">
+          <folding />
         </state>
       </provider>
     </entry>

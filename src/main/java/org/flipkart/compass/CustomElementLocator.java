@@ -48,7 +48,7 @@ public class CustomElementLocator implements ElementLocator {
         final JavascriptExecutor jse = (JavascriptExecutor) searchContext;
         element =
             (WebElement) jse
-                .executeScript("return document.querySelector(" + angularLocator.$() + ")");
+                .executeScript("return document.querySelector(\""+ angularLocator.$() + "\")");
       } else {
         if (!isOptionalElement) {
           throw new IllegalArgumentException(
